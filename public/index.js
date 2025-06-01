@@ -18849,7 +18849,7 @@ function jx() {
             className: "bg-gray-800 p-8 rounded-lg shadow-lg",
             children: [u.jsx("h1", {
                 className: "text-2xl font-bold mb-6",
-                children: "Login to TuneRadio"
+                children: "Login to Peak Radio"
             }), s && u.jsx("div", {
                 className: "bg-red-500/10 border border-red-500 text-red-500 p-3 rounded mb-4",
                 children: s
@@ -18940,7 +18940,7 @@ function Ex() {
             className: "bg-gray-800 p-8 rounded-lg shadow-lg",
             children: [u.jsx("h1", {
                 className: "text-2xl font-bold mb-6",
-                children: "Register for TuneRadio"
+                children: "Register for Peak Radio"
             }), l && u.jsx("div", {
                 className: "bg-red-500/10 border border-red-500 text-red-500 p-3 rounded mb-4",
                 children: l
